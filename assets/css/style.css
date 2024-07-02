@@ -825,6 +825,7 @@
     width: 100%;
     background-color: white;
     top: 50%;
+    left: 0;
   }
 
   .check-btn {
