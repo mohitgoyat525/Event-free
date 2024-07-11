@@ -927,3 +927,8 @@
     background-color: white;
   }
 }
+@media (max-width:785px) {
+  .bluebox::after{
+    display: none;
+  }
+}
