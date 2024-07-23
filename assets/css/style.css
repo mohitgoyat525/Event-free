@@ -709,7 +709,7 @@
   padding-top: 30px;
 }
 
-.col-3-head {
+.foot-head {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 700;
@@ -731,7 +731,7 @@
   width: 70%;
 }
 
-.col-3-text {
+.foot-links {
   font-family: "Poppins", sans-serif;
   font-size: 12px;
   font-weight: 400;
@@ -742,9 +742,10 @@
   margin-top: 20px;
   cursor: pointer;
   width: fit-content;
+  
 }
 
-.col-3-text:hover {
+.foot-links:hover {
   text-decoration: underline;
 }
 
